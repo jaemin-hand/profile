@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>안녕하세요 deploy test 해봅니다.</h1>
+      <h1>안녕하세요 deploy test 해봅니다2 --rebase 테스트.</h1>
     </>
   )
 }
