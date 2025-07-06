@@ -4,11 +4,10 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>안녕하세요 deploy test 해봅니다2 --rebase 테스트.</h1>
+      <h1>안녕하세요.</h1>
     </>
   )
 }
